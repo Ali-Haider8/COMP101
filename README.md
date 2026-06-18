@@ -52,6 +52,6 @@ Lecture notes and references are available in the `docs/Theory` directory.
 - [Youtube Playlist - Asst. Prof. Hasanen Murtadha](https://youtube.com/playlist?list=PLwDpZMXfRps0bfOuOV7RaBX9elCz8G51o&si=b8WCHzGdgZhNwcFD)
 - [Youtube Playlist - Jammel](https://youtube.com/playlist?list=PLwDpZMXfRps1BZrbRfEK7ovvR8XJJydSn&si=ee5E3OKSdh3M7O5_)
 
-
-
+### 💬 Telegram Sources
+- [Batool](https://t.me/c/1632912764/2)
 
