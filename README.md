@@ -31,3 +31,23 @@ Lecture notes and references are available in the `docs/Theory` directory.
 > *📅 **Learning Start Date — December 2025***
 
 🎯 **Purpose:** To organize Java course materials for practice and reference.
+
+---
+### 🌐 Recommended References
+
+### 📘 Books
+- **Java How to Program (9th Edition)** — Paul & Harvey Deitel
+- **Java for Absolute Beginners** — Iuliana Cosmina
+
+### 🌍 Websites
+- [W3Schools - Java Tutorial](https://www.w3schools.com/java/)
+- [TPoint Tech - Java Tutorial](https://www.tpointtech.com/java-tutorial)
+- [Codecademy - Learn Java](https://www.codecademy.com/learn/learn-java)
+- [Programiz - Learn Java Programming](https://www.programiz.com/java-programming/)
+
+### ▶️ YouTube Playlists
+- [Youtube Playlist - Batool](https://youtube.com/playlist?list=PL83yz61_Sp1rfDFYUNgZP8SmDRFRJ0Uj2&si=BfATEmrccEb1hRhH)
+- [Youtube Playlist - Asst. Lect. Maytham Alhasooni](https://youtube.com/playlist?list=PLEy1PGRXuTOZBZCq5e1JpS0aPYamdHavq&si=9mdVPt0c_2a6Eeyh)
+- [Youtube Playlist - Jammel](https://youtube.com/playlist?list=PLwDpZMXfRps1BZrbRfEK7ovvR8XJJydSn&si=ee5E3OKSdh3M7O5_)
+
+
