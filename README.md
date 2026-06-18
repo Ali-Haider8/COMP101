@@ -20,6 +20,14 @@ Lecture notes and references are available in the `docs/Theory` directory.
 - **Assist. Prof. Mohammed Redha Al-Kaabi**
 - **Assistant Lecturer Zahraa Azhar**
 
+## 🔨 Relations with Other Modules
+
+### **Co‑requisite Modules**
+- Advanced Programming Language
+- Database Management
+- Mobile Application Programming
+- Website Design
+
 > *📅 **Learning Start Date — December 2025***
 
 🎯 **Purpose:** To organize Java course materials for practice and reference.
